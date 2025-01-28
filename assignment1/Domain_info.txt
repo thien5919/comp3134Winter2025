@@ -1,0 +1,34 @@
+Domain: capitalone.com
+
+Domain Registration Information
+	Registrar: GoDaddy Corporate Domains, LLC
+	IANA ID: 3786
+	Registrar WHOIS Server: whois.brandsight.com
+	Registrar URL: http://gcd.com
+	Domain Status: clientTransferProhibited (prevents unauthorized transfers)
+	Registered On: March 13, 1995
+	Expires On: March 14, 2026
+	Updated On: August 25, 2024
+	
+Name Servers:
+	1.  A1-219.AKAM.NET
+ 	2.  A18-66.AKAM.NET
+	3.  A28-65.AKAM.NET
+	4.  A3-64.AKAM.NET
+	5.  A4-67.AKAM.NET
+	6.  A7-64.AKAM.NET
+	7.  NS1.CAPITALONE.COM
+	8.  NS2.CAPITALONE.COM
+	9.  NS3.CAPITALONE.COM
+	10. NS4.CAPITALONE.COM
+	11. NS5.CAPITALONE.COM
+	
+Hosting Information:
+
+    Hosting Provider: Akamai Technologies Inc.
+    IP Address: 23.54.19.98
+    Server Location: Seattle, Washington, United States
+    ASN (Autonomous System Number): AS20940 Akamai International B.V., NL
+    Hosted Sites on the Same Server: 196 other sites
+
+

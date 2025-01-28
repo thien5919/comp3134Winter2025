@@ -1,0 +1,18 @@
+PING e64599.x.akamaiedge.net (23.222.17.164) 56(84) bytes of data.
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=1 ttl=55 time=21.7 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=2 ttl=55 time=15.1 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=3 ttl=55 time=12.0 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=4 ttl=55 time=13.3 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=5 ttl=55 time=14.0 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=6 ttl=55 time=12.2 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=7 ttl=55 time=13.5 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=8 ttl=55 time=15.2 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=9 ttl=55 time=18.8 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=10 ttl=55 time=14.4 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=11 ttl=55 time=13.9 ms
+64 bytes from a23-222-17-164.deploy.static.akamaitechnologies.com (23.222.17.164): icmp_seq=12 ttl=55 time=14.6 ms
+
+--- e64599.x.akamaiedge.net ping statistics ---
+12 packets transmitted, 12 received, 0% packet loss, time 11016ms
+rtt min/avg/max/mdev = 11.958/14.894/21.674/2.635 ms
+

@@ -1,0 +1,11 @@
+traceroute to www.capitalone.com (23.222.17.175), 30 hops max, 60 byte packets
+ 1  _gateway (10.0.0.1)  2.629 ms  2.534 ms  2.545 ms
+ 2  pool-99-252-114-1.cpe.net.cable.rogers.com (99.252.114.1)  14.024 ms  17.915 ms  17.830 ms
+ 3  24.156.151.85 (24.156.151.85)  18.126 ms  18.106 ms  18.143 ms
+ 4  69.63.250.97 (69.63.250.97)  20.596 ms 209.148.238.198 (209.148.238.198)  19.410 ms 209.148.233.245 (209.148.233.245)  20.553 ms
+ 5  209.148.235.214 (209.148.235.214)  22.469 ms  19.617 ms  22.823 ms
+ 6  akamai.ip4.torontointernetxchange.net (206.108.34.24)  22.559 ms  57.315 ms *
+ 7  ae12.r01.border.yto01.sdn.netarch.akamai.com (23.203.148.17)  57.217 ms * ae12.r02.border.yto01.sdn.netarch.akamai.com (23.203.148.19)  26.446 ms
+ 8  * * *
+ 9  a23-222-17-175.deploy.static.akamaitechnologies.com (23.222.17.175)  23.373 ms  23.953 ms *
+

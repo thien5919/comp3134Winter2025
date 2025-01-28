@@ -1,0 +1,9 @@
+Company name: Capital One
+	Number of employees: 52,000 employees (December 2023)
+	CEO: Richard D. Fairbank
+	President: Richard D. Fairbank
+	Current job postings: Full Stack Software Engineer, Intern (Spring/Summer 2025) 
+		Link:https://www.linkedin.com/jobs/search/?currentJobId=4123052139&geoId=101174742&keywords=capital%20one&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true
+		
+	Headquarter locations: 1680 Capital One Dr, McLean, VA 22102, United States
+	
