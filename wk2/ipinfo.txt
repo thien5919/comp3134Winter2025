@@ -1,0 +1,8 @@
+	domain name		IP address				Location
+1	georgebrown.ca		198.96.86.176				Canada
+2	theguardian.com		151.101.1.111				San Francisco, California, United States of America
+3	weather.gc.ca		205.189.10.43				Ramsayville, Ontario, Canada
+4.	whatsapp.com		157.240.0.60				Frankfurt am Main, Hesse, Germany
+				2a03:2880:f273:c8:face:b00c:0:167	Amsterdam, North Holland, Netherlands
+5	walmart.com		23.55.96.134				Diegem, Flanders, Belgium
+

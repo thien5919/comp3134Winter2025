@@ -1,0 +1,19 @@
+thien5919@thien5919-ThinkPad-T14-Gen-4:~$ ping 134.122.38.74
+PING 134.122.38.74 (134.122.38.74) 56(84) bytes of data.
+64 bytes from 134.122.38.74: icmp_seq=1 ttl=54 time=30.1 ms
+64 bytes from 134.122.38.74: icmp_seq=2 ttl=54 time=16.9 ms
+64 bytes from 134.122.38.74: icmp_seq=3 ttl=54 time=32.1 ms
+64 bytes from 134.122.38.74: icmp_seq=4 ttl=54 time=16.5 ms
+64 bytes from 134.122.38.74: icmp_seq=5 ttl=54 time=17.2 ms
+64 bytes from 134.122.38.74: icmp_seq=6 ttl=54 time=19.1 ms
+64 bytes from 134.122.38.74: icmp_seq=7 ttl=54 time=17.9 ms
+64 bytes from 134.122.38.74: icmp_seq=8 ttl=54 time=17.8 ms
+64 bytes from 134.122.38.74: icmp_seq=9 ttl=54 time=19.0 ms
+64 bytes from 134.122.38.74: icmp_seq=10 ttl=54 time=23.2 ms
+64 bytes from 134.122.38.74: icmp_seq=11 ttl=54 time=19.3 ms
+64 bytes from 134.122.38.74: icmp_seq=12 ttl=54 time=16.1 ms
+^C
+--- 134.122.38.74 ping statistics ---
+12 packets transmitted, 12 received, 0% packet loss, time 11016ms
+rtt min/avg/max/mdev = 16.070/20.433/32.129/5.114 ms
+

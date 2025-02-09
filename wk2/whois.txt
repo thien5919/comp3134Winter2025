@@ -1,0 +1,107 @@
+1. Domain:
+facebook.com
+Registered On:
+1997-03-29
+Expires On:
+2033-03-30
+Updated On:
+2024-04-24
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers:
+a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+
+2. Domain:
+instagram.com
+Registered On:
+2004-06-04
+Expires On:
+2033-06-04
+Updated On:
+2024-06-26
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+a.ns.instagram.com
+b.ns.instagram.com
+c.ns.instagram.com
+d.ns.instagram.com
+
+
+3. Domain:
+twitch.com
+Registered On:
+1997-05-28
+Expires On:
+2025-05-27
+Updated On:
+2024-04-25
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:
+ns-1051.awsdns-03.org
+ns-2042.awsdns-63.co.uk
+ns-400.awsdns-50.com
+ns-668.awsdns-19.net
+
+
+4. Domain:
+youtube.com
+Registered On:
+2005-02-15
+Expires On:
+2026-02-15
+Updated On:
+2025-01-14
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers:
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+
+5. Domain:
+x.com
+Registered On:
+1993-04-02
+Expires On:
+2034-10-20
+Updated On:
+2024-12-03
+Status:
+clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:
+a.r10.twtrdns.net
+a.u10.twtrdns.net
+b.r10.twtrdns.net
+b.u10.twtrdns.net
+c.r10.twtrdns.net
+c.u10.twtrdns.net
+d.r10.twtrdns.net
+d.u10.twtrdns.net
